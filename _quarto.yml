@@ -10,7 +10,26 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - Destinations.qmd
+      - text: Destinations
+        menu: 
+          - href: England.qmd
+            text: England
+          - href: Netherlands.qmd
+            text: Netherlands
+          - href: TheCzechRepublic.qmd
+            text: The Czech Republic
+          - href: Germany.qmd
+            text: Germany
+          - href: Italy.qmd
+            text: Italy
+          - href: Switzerland.qmd
+            text: Switzerland
+          - href: France.qmd
+            text: France
+          - href: Denmark.qmd
+            text: Denmark
+          - href: Sweden.qmd
+            text: Sweden
       - Stories.qmd
       - BucketList.qmd
     
