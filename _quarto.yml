@@ -4,11 +4,16 @@ project:
 
 website:
   title: "The Roaming Sophie"
+  search: true
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Destinations.qmd
+      - Stories.qmd
+      - BucketList.qmd
+    
 
 format:
   html:
