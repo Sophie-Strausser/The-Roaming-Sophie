@@ -1,3 +1,11 @@
 ---
 title: "Italy"
 ---
+
+### Rome
+
+[![Click the Image for our Day in Rome!](images/Rome3.png){fig-align="center" width="386"}](Rome.qmd)
+
+### Cinque Terre
+
+[![Click the Image for our Two Days in Cinque Terre!](images/Cinque4.png){fig-align="center"}](CinqueTerre.qmd)

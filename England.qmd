@@ -1,3 +1,7 @@
 ---
 title: "England"
 ---
+
+### London
+
+[![Click on the Image for our Day in London!](images/London1-01.JPG){fig-align="center" width="350"}](London.qmd)

@@ -1,6 +1,5 @@
 ---
 title: "The Roaming Sophie"
-image: HomePic.jpg
 about: 
   template: marquee
   image-width: 15em
@@ -8,3 +7,5 @@ about:
     - text: Instagram
       href: https://www.instagram.com/bigadventures_littlegirls?igsh=MWNkcnUycjFleTA1cA== 
 ---
+
+![](images/HomePic.jpg){fig-align="center" width="500"}

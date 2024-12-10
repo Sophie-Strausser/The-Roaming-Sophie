@@ -1,3 +1,11 @@
 ---
 title: "Netherlands"
 ---
+
+### Amsterdam
+
+[![Click on the Image for our Day in Amsterdam](images/Amsterdam1-01.JPG){fig-align="center" width="350"}](Amsterdam.qmd)
+
+### Zaanse Schans
+
+[![Click the Image for our Day in Zaanse schans!](images/Zaanse6.png){fig-align="center" width="320"}](ZaanseSchans.qmd)

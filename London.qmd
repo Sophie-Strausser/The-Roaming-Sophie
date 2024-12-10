@@ -1,0 +1,29 @@
+---
+title: "London"
+---
+
+### One Day in London
+
+Our first stop of the entire trip was London, England! We flew into London on a nonstop flight from Denver. After over 8 hours on the plane, we arrived in London around 12:00 pm. We spent the rest of this first day desperately trying to stay awake. We checked into our Airbnb in North Finchley and then wandered the neighborhood with coffee in hand. We ended the night with some yummy food at a nearby pub.
+
+![North Finchley](images/London2.png){fig-align="center" width="350"}
+
+With only one full day in London, we knew we had to make the most of it! We hopped on the tube and headed toward Buckingham Palace. Buckingham Palace was as beautiful as I imagined it would be. We walked around the area and made sure to stop and say hi to the horse guards.
+
+![Buckingham Palace](images/London3.png){fig-align="center" width="450"}
+
+After seeing Buckingham Palace we walked toward the other must-see sights of London, including Big Ben!
+
+![](images/London4.JPG){fig-align="center" width="400"}
+
+We had a ferry tour scheduled in the early afternoon, so we made our way toward the Thames river to catch our ferry! By the dock, we caught site of The Eye, but we didn't actually ride it (we were on a budget). We hopped on the ferry and floated down the Thames River while the tour guide pointed out all of the important sights including Tower Bridge.
+
+![Tower Bridge](images/London5.png){fig-align="center" width="400"}
+
+After a long day of sight-seeing, we headed back to our Airbnb to prepare for a night at the theater! On our way to the theater, we stopped at Camden Market for dinner. Camden market was certainly a cool area to visit, however the food was average.
+
+![](images/London7.png){fig-align="center" width="350"}
+
+After our mediocre dinner, we headed to Piccadilly Theatre to watch Moulin Rouge! The musical was incredible! Definitely worth the late night before our 6 am train ride to Amsterdam!
+
+![](images/London6.png){fig-align="center" width="450"}
