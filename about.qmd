@@ -4,3 +4,9 @@ about:
   template: marquee
   image-width: 15em
 ---
+
+![](images/About2.jpg){fig-align="center" width="350"}
+
+Hi there! My name is Sophie. In May of 2024, I set out on a big adventure through 14 different cities/towns across 9 different countries in Europe. I spent three weeks with two of my closest friends (pictured below) squeezing in as many destinations as we could into such a short time. I then branched off on my own for a solo trip to Denmark and Sweden. This website details our amazing journey through Europe!
+
+![](images/About1.png){fig-align="center"}

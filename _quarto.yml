@@ -16,18 +16,40 @@ website:
             text: England
           - href: Netherlands.qmd
             text: Netherlands
+            menu:
+              - href: Amsterdam.qmd
+                text: Amsterdam
+              - href: ZaanseSchans.qmd
+                text: Zaanse Schans
           - href: TheCzechRepublic.qmd
             text: The Czech Republic
           - href: Germany.qmd
             text: Germany
           - href: Italy.qmd
             text: Italy
+            menu: 
+              - href: Rome.qmd
+                text: Rome
+              - href: CinqueTerre.qmd
+                text: Cinque Terre
           - href: Switzerland.qmd
             text: Switzerland
+            menu: 
+              - href: Interlaken.qmd
+                text: Interlaken
+              - href: Lauterbrunnen.qmd
+                text: Lauterbrunnen
           - href: France.qmd
             text: France
           - href: Denmark.qmd
             text: Denmark
+            menu:
+              - href: Copenhagen.qmd
+                text: Copenhagen
+              - href: Nordby.qmd
+                text: Nordby
+              - href: Aarhus.qmd
+                text: Aarhus
           - href: Sweden.qmd
             text: Sweden
       - Stories.qmd
