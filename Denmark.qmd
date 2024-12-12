@@ -1,3 +1,9 @@
 ---
 title: "Denmark"
 ---
+
+[![Click on the image to learn more about my time in Copenhagen!](images/Copenhagen2-01.png){fig-align="left" width="350"}](Copenhagen.qmd)
+
+[![Click on the image to learn more about my WWOOFing experience in Nordby!](images/Nordby14.png){fig-align="left" width="350"}](Nordby.qmd)
+
+[![Click on the image to learn more about my time in Aarhus!](images/Aarhus1.png){fig-align="left" width="350"}](Aarhus.qmd)

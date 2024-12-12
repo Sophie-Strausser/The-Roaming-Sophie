@@ -2,40 +2,38 @@
 title: "CinqueTerre"
 ---
 
-### Two Days in Cinque Terre
+Our homebase in Cinque Terre was the beautiful town of Riomaggiore. From Riomaggiore, we ventured out to the other towns, Manarola, Corniglia, Vernazza, and Monterosso. Although you can hike to all five of the towns, we opted for the short train ride instead.
 
-Cinque Terre was our second stop in Italy following Rome. We stayed just outside of Cinque Terre in La Spezia for one night before going to our homebase for the next few days, Riomaggiore. From Riomaggiore, we ventured out to the other towns, Manarola, Corniglia, Vernazza, and Monterosso. Although you can hike to all five of the towns, we opted for the short train ride instead.
-
-#### Riomaggiore
+### Riomaggiore
 
 Riomaggiore is the farthest town south and it was the perfect home base. It was a colorful town, built up on the hill with a beautiful rocky beach.
 
-![Riomaggiore](images/CinqueCollage-01.png){fig-align="center" width="500"}
+![](images/CinqueCollage-01.png){fig-align="center" width="500"}
 
-On our first day, we decided to trek up an absurd amount of stairs in flip flops to a bar with the best view of the town. In the moment, we thought we were going to die of heat stroke, but after getting some ice cream in us at the top, we decided the view was well worth it.
+On our first day, we decided to trek up an insane amount of stairs in flip flops to reach a bar with the best view of the town. In the moment, we thought we were going to die of heat stroke, but after getting some ice cream in us at the top, we decided the view was well worth it.
 
 ![](images/Cinque1.png){fig-align="center"}
 
-#### Manarola
+### Manarola
 
 Manarola felt a bit smaller than Riomaggiore, but it was just as beautiful. We ate a delicious dinner here and caught the sunset over the sea.
 
-![Manarola](images/Cinque3.png){fig-align="center" width="450"}
+![](images/Cinque3.png){fig-align="center" width="450"}
 
-#### Corniglia 
+### Corniglia
 
-We thought that the hills of Riomaggiore were rough, but little did we know we had to climb what felt like thousands of stairs to even reach the town of Corniglia. Corniglia is built up on a cliff, so the views are gorgeous, but the trek from the train station to the town is deadly.
+We thought that the hills of Riomaggiore were rough, but little did we know we had to climb hundreds of stairs just to reach the town of Corniglia. Corniglia is built up on a cliff, so the views are gorgeous, but the trek from the train station to the town is deadly.
 
-![Corniglia](images/Cinque5.png){fig-align="center" width="400"}
+![](images/Cinque5.png){fig-align="center" width="400"}
 
-Vernazza
+### Vernazza
 
-We spent the least amount of time in Vernazza. There weren't very many shops and all of the restaurants we walked into required reservations, which we weren't aware of. So after wandering for a little bit, we moved on.
+We spent the least amount of time in Vernazza. There weren't very many shops and all of the restaurants we walked into required reservations. So after wandering for a little bit, we moved on.
 
-![Vernazza](images/Cinque6.png){fig-align="center" width="350"}
+![](images/Cinque6.png){fig-align="center" width="350"}
 
-#### Monterosso
+### Monterosso
 
-Monterosso is the largest town and the most touristy town. It's the only town with sandy beaches and hotels. We spent most of our time here laying in the sand and swimming in the crystal clear water. Monterosso was also great for shopping and boy did we shop!
+Monterosso is the largest town and most touristy town in Cinque Terre. It's also the only town with sandy beaches. We spent most of our time here laying in the sand and swimming in the crystal clear water. Monterosso was also great for shopping and boy did we shop!
 
-![Monterosso](images/Cinque7.png){fig-align="center" width="400"}
+![](images/Cinque7.png){fig-align="center" width="400"}

@@ -4,8 +4,8 @@ title: "Switzerland"
 
 ### Interlaken
 
-[![Click the Image for One Day in Interlaken!](images/Interlaken1.png){fig-align="center"}](Interlaken.qmd)
+[![Click the image to learn more about our time in Interlaken!](images/Interlaken1.png){fig-align="left" width="350"}](Interlaken.qmd)
 
 ### Lauterbrunnen
 
-[![Click the Image for a Day Trip to Lauterbrunnen!](images/Lauter2.png){fig-align="center" width="400"}](Lauterbrunnen.qmd)
+[![Click the image to learn more about our time in Lauterbrunnen!](images/Lauter2.png){fig-align="left" width="350"}](Lauterbrunnen.qmd)

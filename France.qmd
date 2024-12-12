@@ -4,4 +4,4 @@ title: "France"
 
 ### Paris
 
-[![Click the Image for One Day in Paris!](images/Paris7.png){fig-align="center"}](Paris.qmd)
+[![Click the image to learn more about our time in Paris!](images/Paris7.png){fig-align="left" width="350"}](Paris.qmd)

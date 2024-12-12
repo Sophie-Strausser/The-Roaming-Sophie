@@ -2,9 +2,11 @@
 title: "Prague"
 ---
 
-### Two Days in Prague 
+### Arrived in Prague
 
-We arrived in Prague after a very hot train ride with no air conditioning. Once we arrived, we immediately hopped on the metro to get to our Airbnb. The metro was certainly an interesting place for three young girls with big backpacks. We got lots of stares, mostly from men, but we made it to Airbnb safely.
+We arrived in Prague after a very hot train ride with no air conditioning. Once we arrived, we immediately hopped on the metro to get to our AirBnb. The metro was certainly an interesting place for three young girls with big backpacks. We got lots of stares, mostly from men, but we made it to AirBnb safely.
+
+### Day One in Prague
 
 The first morning was rainy, so we spent it doing laundry, which was much needed. In the afternoon, we ventured out to Old Town - the most beautiful Old Town Square that I've ever seen!
 
@@ -12,13 +14,15 @@ The first morning was rainy, so we spent it doing laundry, which was much needed
 
 The famous Astronomical Clock is located right in the Old Town Square overlooking a beautiful church. Definitely a sight worth seeing! We spent the rest of the day exploring all of the beautiful streets near Old Town and eating lots of yummy food.
 
-![Astronomical Clock](images/Czech2.png){fig-align="center" width="400"}
+![](images/Czech2.png){fig-align="center" width="400"}
 
 '
 
 After a quick dinner at the pub, we decided to sign up for a ghost tour. The ghost tour took us through lots of history and tales of Prague's Old Town. Our tour guide, Gordon, was absolutely amazing at telling these stories. The most interesting part of the tour was the Jewish Cemetery, which holds over 100,000 bodies all stacked on top of each other rather than next to each other.
 
-![Prague Old Town at night](images/Czech4.png)
+![](images/Czech4.png){fig-align="left"}
+
+### Day Two in Prague
 
 Day 2 began with a tour of Prague Castle. Prague Castle was absolutely breathtaking. Prague's history was on full display, in fact, some buildings still had the communist hammer and sickle symbol on them. This made me realize how recently the nation became the Czech Republic.
 

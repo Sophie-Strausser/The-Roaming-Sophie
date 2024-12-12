@@ -4,4 +4,4 @@ title: "The Czech Republic"
 
 ### Prague
 
-[![Click on the Image for Two Days in Prague!](images/Czech6.png){fig-align="center" width="400"}](Prague.qmd)
+[![Click on the image to learn more about our time in Prague!](images/Czech6.png){fig-align="left" width="400"}](Prague.qmd)

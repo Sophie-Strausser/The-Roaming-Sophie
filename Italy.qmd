@@ -4,8 +4,8 @@ title: "Italy"
 
 ### Rome
 
-[![Click the Image for our Day in Rome!](images/Rome3.png){fig-align="center" width="386"}](Rome.qmd)
+[![Click the image to learn more about our time in Rome!](images/Rome3.png){fig-align="left" width="350"}](Rome.qmd)
 
 ### Cinque Terre
 
-[![Click the Image for our Two Days in Cinque Terre!](images/Cinque4.png){fig-align="center"}](CinqueTerre.qmd)
+[![Click on the image to learn more about our time in Cinque Terre!](images/Cinque4.png){fig-align="left" width="350"}](CinqueTerre.qmd)

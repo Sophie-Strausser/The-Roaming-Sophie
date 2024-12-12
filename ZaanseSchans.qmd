@@ -2,9 +2,9 @@
 title: "Zaanse Schans"
 ---
 
-### One Day in Zaanse Schans
+### Day Trip to Zaanse Schans
 
-Zaanse Schans was our home base while we were in the Netherlands. We stayed three nights at the most amazing Bed & Breakfast located directly across the water from the famous Zaanse Schans windmills. On our second and final day in Amsterdam, we ventured over the water to see the windmills up close.
+Zaanse Schans was our home base while we were in the Netherlands. We stayed three nights at the most amazing Bed & Breakfast located directly across the water from the famous Zaanse Schans windmills. On our second and final day in the Netherlands, we ventured over the water to see the windmills up close.
 
 ![](images/ZaanseCollage.png){fig-align="center" width="500"}
 
@@ -22,8 +22,8 @@ The picture below is my reaction to the old wooden windmills that lined the wate
 
 On our way back to the bridge, we stumbled upon a "free cheese museum" and immediately entered because we all love cheese. After a short history on dutch cheese-making, we walked into a store full of Henry Willig cheese. They had over 20 cheese samples set up around the store as well. We walked into the the Cheese Farm with no idea what to expect and we left with lots of yummy cheese.
 
-![Jenna after buying cheese from the Cheese Farm "Catharina Hoeve" by Henri Willig](images/Zaanse9.png){fig-align="center"}
+![](images/Zaanse9.png){fig-align="center"}
 
 After another rainy but successful day, we crossed the bridge back to the neighborhood where our Bed & Breakfast was. We ate some dutch pancakes and called it a day.
 
-![One of MANY slugs that lined the streets of Zaanse Schans after it rained.](images/Zaanse2-01.png){fig-align="center"}
+![](images/Zaanse2-01.png){fig-align="center"}

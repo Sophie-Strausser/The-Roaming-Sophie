@@ -4,8 +4,8 @@ title: "Netherlands"
 
 ### Amsterdam
 
-[![Click on the Image for our Day in Amsterdam](images/Amsterdam1-01.JPG){fig-align="center" width="350"}](Amsterdam.qmd)
+[![Click on the image to learn more about our day in Amsterdam! ](images/Amsterdam1-01.JPG){fig-align="left" width="350"}](Amsterdam.qmd)
 
 ### Zaanse Schans
 
-[![Click the Image for our Day in Zaanse schans!](images/Zaanse6.png){fig-align="center" width="320"}](ZaanseSchans.qmd)
+[![Click the image to learn more about our day in Zaanse Schans! ](images/Zaanse6.png){fig-align="left" width="320"}](ZaanseSchans.qmd)

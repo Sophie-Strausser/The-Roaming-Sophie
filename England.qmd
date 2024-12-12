@@ -4,4 +4,4 @@ title: "England"
 
 ### London
 
-[![Click on the Image for our Day in London!](images/London1-01.JPG){fig-align="center" width="350"}](London.qmd)
+[![Click on the image to learn about our time London!](images/London1-01.JPG){fig-align="left" width="350"}](London.qmd)
